@@ -1,16 +1,9 @@
 # TypeScript 入门教程
 
-[![Build Status](https://travis-ci.org/xcatliu/typescript-tutorial.svg?branch=master)](https://travis-ci.org/xcatliu/typescript-tutorial) [![Greenkeeper badge](https://badges.greenkeeper.io/xcatliu/typescript-tutorial.svg)](https://greenkeeper.io/)
-
 从 JavaScript 程序员的角度总结思考，循序渐进的理解 TypeScript。
 
 ## 关于本书
 
-- [在线阅读](https://ts.xcatliu.com/)（部署在 [GitBook](https://www.gitbook.com/book/xcatliu/typescript-tutorial/details) 上，可能需要翻墙）
-- [在线阅读（GitHub 版）](https://github.com/xcatliu/typescript-tutorial/blob/master/README.md)
-- [GitHub 地址][GitHub]
-- 作者：[xcatliu](https://github.com/xcatliu/)
-- 官方 QQ 群：[加入 QQ 群 767142358](https://jq.qq.com/?_wv=1027&k=5nkkFCl)
 
 本书是作者在学习 [TypeScript] 后整理的学习笔记。
 
@@ -105,7 +98,6 @@ TypeScript 虽然有[官方手册][Handbook]及其[非官方中文版][中文手
 
 - [下一章：简介](introduction/README.md)
 
-[GitHub]: https://github.com/xcatliu/typescript-tutorial
 [TypeScript]: http://www.typescriptlang.org/
 [Handbook]: http://www.typescriptlang.org/docs/handbook/basic-types.html
 [中文手册]: https://zhongsp.gitbook.io/typescript-handbook/
